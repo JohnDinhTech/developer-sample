@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/developer-sample/static/css/main.27b5ac59.chunk.css",
-    "main.js": "/developer-sample/static/js/main.f711a910.chunk.js",
-    "main.js.map": "/developer-sample/static/js/main.f711a910.chunk.js.map",
+    "main.js": "/developer-sample/static/js/main.af34f943.chunk.js",
+    "main.js.map": "/developer-sample/static/js/main.af34f943.chunk.js.map",
     "runtime-main.js": "/developer-sample/static/js/runtime-main.02b170a2.js",
     "runtime-main.js.map": "/developer-sample/static/js/runtime-main.02b170a2.js.map",
     "static/css/2.3c1ddb0a.chunk.css": "/developer-sample/static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.870411ef.chunk.js": "/developer-sample/static/js/2.870411ef.chunk.js",
-    "static/js/2.870411ef.chunk.js.map": "/developer-sample/static/js/2.870411ef.chunk.js.map",
+    "static/js/2.32e84338.chunk.js": "/developer-sample/static/js/2.32e84338.chunk.js",
+    "static/js/2.32e84338.chunk.js.map": "/developer-sample/static/js/2.32e84338.chunk.js.map",
     "index.html": "/developer-sample/index.html",
-    "precache-manifest.82bda92775297f28bda0e1daac6127f1.js": "/developer-sample/precache-manifest.82bda92775297f28bda0e1daac6127f1.js",
+    "precache-manifest.66b272b079eb2826d1d6d4e13b603a66.js": "/developer-sample/precache-manifest.66b272b079eb2826d1d6d4e13b603a66.js",
     "service-worker.js": "/developer-sample/service-worker.js",
     "static/css/2.3c1ddb0a.chunk.css.map": "/developer-sample/static/css/2.3c1ddb0a.chunk.css.map",
     "static/css/main.27b5ac59.chunk.css.map": "/developer-sample/static/css/main.27b5ac59.chunk.css.map",
-    "static/js/2.870411ef.chunk.js.LICENSE.txt": "/developer-sample/static/js/2.870411ef.chunk.js.LICENSE.txt",
+    "static/js/2.32e84338.chunk.js.LICENSE.txt": "/developer-sample/static/js/2.32e84338.chunk.js.LICENSE.txt",
     "static/media/lesson1-card.jpg": "/developer-sample/static/media/lesson1-card.cc949a62.jpg",
     "static/media/lesson2-card.jpg": "/developer-sample/static/media/lesson2-card.dd303e52.jpg",
     "static/media/lesson3-card.jpg": "/developer-sample/static/media/lesson3-card.905385cf.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.02b170a2.js",
     "static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.870411ef.chunk.js",
+    "static/js/2.32e84338.chunk.js",
     "static/css/main.27b5ac59.chunk.css",
-    "static/js/main.f711a910.chunk.js"
+    "static/js/main.af34f943.chunk.js"
   ]
 }
