@@ -1,0 +1,1 @@
+export const SET_SELECTED_PATH = "SET_SELECTED_PATH";

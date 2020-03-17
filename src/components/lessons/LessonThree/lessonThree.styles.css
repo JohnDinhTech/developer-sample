@@ -1,0 +1,64 @@
+.lesson-three {
+  font-family: "Titillium Web", sans-serif;
+  transition: opacity 0.5s ease-in;
+}
+
+.lesson-three .table {
+  height: 70vh;
+  border: 5px solid #23d89b;
+  margin-bottom: 10rem;
+  margin-top: 5rem;
+  display: flex;
+  overflow: hidden;
+}
+
+.lesson-three .table .left {
+  display: flex;
+  flex-direction: column;
+}
+
+.lesson-three .table .left .word {
+  width: 100%;
+  height: 12.5%;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+}
+
+.lesson-three .table .left .word:hover {
+  transform: scale(1.05);
+  color: #23d89b;
+}
+
+.lesson-three .table .left .word p {
+  font-size: 2rem;
+  line-height: 200%;
+}
+
+.lesson-three .table .left,
+.lesson-three .table .right {
+  width: 50%;
+}
+
+.lesson-three .table .right {
+  position: relative;
+}
+
+.lesson-three .table .right h1 {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+  transform: translateY(-50%);
+  color: #fff;
+  z-index: 2;
+  width: 100%;
+}
+
+.lesson-three .table .right img {
+  height: 100%;
+  width: 100%;
+}

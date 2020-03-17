@@ -1,0 +1,14 @@
+.choice-card {
+  height: 27.3rem;
+  width: 30%;
+  border: 5px solid #23d89b;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.choice-card h1 {
+  font-size: 5rem;
+}

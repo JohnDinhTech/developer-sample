@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./lessonCard.styles.css";
 import { Redirect } from "react-router-dom";
-const LessonCard = ({ image, text, path }) => {
+const LessonCard = ({ image, text, path, setPath, ...rest }) => {
   const [url, setUrl] = useState({ redirect: false });
   return url.redirect ? (
     <Redirect push to={url.url} />
@@ -14,6 +14,7 @@ const LessonCard = ({ image, text, path }) => {
       }}
       onClick={() => {
         setUrl({ url: path, redirect: true });
+        setPath();
       }}
     >
       <h1>{text}</h1>

@@ -1,0 +1,18 @@
+.lesson-two {
+  text-align: center;
+  transition: opacity 0.5s ease-in;
+}
+
+.lesson-two .hero-text {
+  margin-bottom: 15rem;
+}
+
+.mc {
+  margin-bottom: 10rem;
+}
+
+.mc .choices {
+  margin-top: 10rem;
+  display: flex;
+  justify-content: space-evenly;
+}

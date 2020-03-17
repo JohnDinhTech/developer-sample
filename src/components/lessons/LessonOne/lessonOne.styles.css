@@ -1,3 +1,60 @@
 .lesson-one {
   text-align: center;
+  transition: opacity 0.5s ease-in;
+}
+
+.lesson-one .hero-text {
+  margin-bottom: 15rem;
+}
+
+.slide {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  max-height: 80vh;
+}
+
+.lesson-one .slide .text {
+  color: #fff;
+  position: absolute;
+}
+
+.lesson-one .slide .text h1 {
+  font-size: 5.2rem;
+  color: #23d89b;
+}
+
+.lesson-one .slide .text p {
+  font-size: 2.1rem;
+  line-height: 5rem;
+}
+
+.question {
+  margin-top: 15rem;
+  margin-bottom: 10rem;
+}
+
+.question input {
+  width: 50rem;
+  height: 7rem;
+  border-radius: 5rem;
+  border: 2px solid #23d89b;
+  outline: none;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  font-size: 2rem;
+  margin-bottom: 5rem;
+  margin-top: 3rem;
+}
+
+.question input::placeholder {
+  text-align: center;
+}
+
+.question p {
+  font-size: 2rem;
+  line-height: 4rem;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
