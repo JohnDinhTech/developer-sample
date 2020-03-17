@@ -1,0 +1,12 @@
+.home {
+  text-align: center;
+}
+
+.home .hero-text {
+  margin-bottom: 7rem;
+}
+
+.lessons {
+  display: flex;
+  justify-content: space-evenly;
+}

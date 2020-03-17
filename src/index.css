@@ -33,3 +33,21 @@ a {
 .container {
   padding: 0 7%;
 }
+
+.hero-text h1 {
+  color: #23d89b;
+  font-size: 7.3rem;
+  margin-bottom: 0;
+}
+
+.hero-text h2 {
+  font-size: 4rem;
+  margin-top: 1rem;
+  font-weight: 400;
+  color: #056d98;
+}
+
+.hero-text p {
+  font-size: 2.1rem;
+  line-height: 5.4rem;
+}

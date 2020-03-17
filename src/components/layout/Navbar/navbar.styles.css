@@ -1,0 +1,36 @@
+.navbar {
+  height: 11rem;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  left: 0;
+  right: 0;
+}
+
+.navbar ul {
+  display: flex;
+  padding: 0;
+  list-style: none;
+  align-items: center;
+}
+
+.navbar ul li {
+  margin-left: 6rem;
+  transition: 0.4s all ease-in;
+}
+
+.navbar ul li a {
+  font-size: 2.4rem;
+  opacity: 50%;
+}
+
+.navbar a {
+  color: #000;
+  font-size: 3.2rem;
+  transition: all 0.8s ease;
+}
+
+.navbar a:hover {
+  color: #23d89b;
+}

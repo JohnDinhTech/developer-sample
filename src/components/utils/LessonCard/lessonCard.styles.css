@@ -1,0 +1,20 @@
+.lesson-card {
+  height: 27.3rem;
+  width: 30%;
+  border: 5px solid #23d89b;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: transform 0.5s linear;
+}
+
+.lesson-card:hover {
+  transform: scale(1.05);
+}
+
+.lesson-card h1 {
+  color: #f9fdff;
+  font-size: 4rem;
+}
